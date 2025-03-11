@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JUnit Tests for Archi Layout
+Bundle-SymbolicName: org.archicontribs.layout.tests
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.archicontribs.layout;bundle-version="1.0.0.qualifier"
+Import-Package: com.archimatetool.testingtools
+Require-Bundle: com.archimatetool.testsupport
+Automatic-Module-Name: org.archicontribs.layout.tests
+Bundle-Vendor: Archi-Contribs
+Bundle-RequiredExecutionEnvironment: JavaSE-17
